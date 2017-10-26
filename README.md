@@ -1,5 +1,5 @@
 # finpy-study01
-fin-py study #1 年金最適化入門の資料です
+[fin-py study #1 年金最適化入門](https://fin-py.connpass.com/event/66129/) の資料です
 
 ## スライド
 
